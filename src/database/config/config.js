@@ -10,7 +10,7 @@ module.exports = {
   test: {
     username: 'root',
     password: null,
-    database: 'digitalgaming',
+    database: 'database_test',
     host: 'localhost',
     dialect: 'mysql',
   },
